@@ -2,9 +2,9 @@ A simple game (very) loosely based on Katamari Damacy I built for practicing Jav
 
 To try, make sure you have [npm](https://www.npmjs.com/get-npm) installed, then:
 
-1. `npm install webpack --save-dev`
+1. navigate to the project folder
 
-2. navigate to the project folder
+2. `npm install webpack --save-dev`
 
 3. `npm run build`
 
