@@ -1,0 +1,20 @@
+{
+  "name": "blob-eat-blob",
+  "version": "1.0.0",
+  "description": "it's a blob eat blob world",
+  "main": "game.js",
+  "dependencies": {
+    "webpack": "^4.29.5",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.3"
+  },
+  "scripts": {
+    "build": "webpack -p",
+    "watch": "webpack --watch",
+    "start:dev": "webpack-dev-server"
+  },
+  "author": "DanielP",
+  "license": "ISC"
+}
