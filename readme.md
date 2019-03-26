@@ -1,3 +1,5 @@
+## Blob Eat Blob
+
 A simple game (very) loosely based on Katamari Damacy I built for practicing JavaScript modularization, using HTML, CSS, vanilla JavaScript and Webpack.
 
 To try, make sure you have [npm](https://www.npmjs.com/get-npm) installed, then:
